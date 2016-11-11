@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edhs0011/demo_sec_all_hands.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edhs0011/demo_sec_all_hands/issues"
+  },
+  "homepage": "https://github.com/edhs0011/demo_sec_all_hands#readme",
+  "dependencies": {
+      "express": ">=2.5.0"
+    , "mysql": ">=2.12.0"
+  }
+}
